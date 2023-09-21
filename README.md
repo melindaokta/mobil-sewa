@@ -1,4 +1,4 @@
-Aplikasi ini merupakan sebuah proyek yang digunakan untuk tugas akhir matakuliah `Sistem Informasi Akuntasi`.
+latihan pembuatan aplikasi-melinda
 
 
 
